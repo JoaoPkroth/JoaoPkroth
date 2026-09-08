@@ -249,3 +249,15 @@ Cada repositório representa uma oportunidade de colocar novos conhecimentos em 
 **Sempre aprendendo, desenvolvendo e evoluindo.**
 
 </div>
+
+## 🕹️ Pac-Man Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPkroth/JoaoPkroth/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPkroth/JoaoPkroth/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JoaoPkroth/JoaoPkroth/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
