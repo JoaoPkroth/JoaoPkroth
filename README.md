@@ -211,16 +211,21 @@ Busco aprimorar principalmente meus conhecimentos em **desenvolvimento backend, 
 Ao longo dessa jornada, pretendo utilizar este GitHub para documentar minha evolução e construir um portfólio que represente os conhecimentos adquiridos através dos meus estudos e projetos.
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPkroth\&show_icons=true\&theme=github_dark\&hide_border=true\&locale=pt-br)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=JoaoPkroth&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
+  alt="GitHub Stats"
+/>
 
-<br>
+<br><br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPkroth\&layout=compact\&theme=github_dark\&hide_border=true\&locale=pt-br)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPkroth&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
+  alt="Linguagens mais utilizadas"
+/>
 
 </div>
 
