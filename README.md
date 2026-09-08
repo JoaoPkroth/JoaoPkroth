@@ -212,26 +212,6 @@ Ao longo dessa jornada, pretendo utilizar este GitHub para documentar minha evol
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=JoaoPkroth&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
-alt="GitHub Stats"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPkroth&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
-alt="Linguagens mais utilizadas"
-/>
-
-</div>
-
----
-
 ## 🔥 Sequência de contribuições
 
 <div align="center">
@@ -253,5 +233,17 @@ Cada repositório representa uma oportunidade de colocar novos conhecimentos em 
 ### 💻 Programação • 🗄️ Banco de Dados • 🌿 Git • 🚀 Desenvolvimento
 
 **Sempre aprendendo, desenvolvendo e evoluindo.**
+
+</div>
+
+## 🕹️ Pac-Man Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPkroth/JoaoPkroth/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPkroth/JoaoPkroth/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JoaoPkroth/JoaoPkroth/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
